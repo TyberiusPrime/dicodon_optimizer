@@ -10,4 +10,4 @@ Using the wrong codons for your target organism will yield
 
 There's even a dependency on codon order (or 'dicodons').
 
-This library powers the <a href="https://github.com/TyberiusPrime/dicodon-optimizer-webapp">dicodon-optimizer-webapp"</a>.
+This library powers the <a href="https://github.com/TyberiusPrime/dicodon-optimizer-webapp">dicodon-optimizer-webapp</a>.
